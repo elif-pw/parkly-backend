@@ -51,16 +51,21 @@ public class Booking implements Serializable {
     @Column(name = "active")
     private boolean active;
 
-    public Long getId() {
-        return id;
-    }
-
+    public Parking getParkingId() {return parkingId;}
+    public ParkingSpot getParkingSpotId() {return parkingSpotId; }
     public LocalDateTime getStartDate() {
         return startDate;
     }
     public LocalDateTime getEndDate() {
         return endDate;
     }
-    public ParkingSpot getParkingSpotId() {return parkingSpotId; }
+    public LocalDateTime getBookDate() {return bookDate;}
+
+    public Long getId() {
+        return id;
+    }
+    public int getUserId() {return userId;}
+    public int getPaidAmount() {return paidAmount;}
+    public boolean getActive() {return active;}
 
 }

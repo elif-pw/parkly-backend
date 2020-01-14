@@ -20,6 +20,7 @@ C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\appException\UnauthorizedException.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\controller\AdminController.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\controller\ParkingSpotController.java
+C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\model\BookingDTO.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\service\ParkingServiceImpl.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\config\WebSecurityConfig.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\service\ParkingSpotService.java
