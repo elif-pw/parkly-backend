@@ -16,6 +16,7 @@ C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\service\ParkingService.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\service\ParkingSpotServiceImpl.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\config\JwtRequestFilter.java
+C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\controller\LoginController.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\controller\BookingController.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\appException\UnauthorizedException.java
 C:\Users\Lombster\Desktop\Baack\PBE\src\main\java\pw\react\backend\reactbackend\controller\AdminController.java

@@ -16,6 +16,7 @@ pw\react\backend\reactbackend\config\JwtTokenUtil.class
 pw\react\backend\reactbackend\model\BookingDTO.class
 pw\react\backend\reactbackend\service\AdminService.class
 pw\react\backend\reactbackend\config\JwtRequestFilter.class
+pw\react\backend\reactbackend\controller\LoginController.class
 pw\react\backend\reactbackend\service\JwtUserDetailsService.class
 pw\react\backend\reactbackend\service\ParkingSpotServiceImpl.class
 pw\react\backend\reactbackend\dao\ParkingRepository.class
